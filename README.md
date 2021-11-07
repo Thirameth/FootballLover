@@ -1,2 +1,2 @@
 # FootballLover
-Online shop
+Online shop selling football accessories
